@@ -1,0 +1,31 @@
+nav{
+    background-color: rgb(224, 102, 214);
+}
+header{
+    background-color: blueviolet;
+}
+
+h1{
+    color: cornsilk;
+    text-transform: uppercase;
+}
+
+li{
+    display: inline;
+}
+ul{
+    list-style: none;
+    font-family: 'Pacifico', cursive;
+
+}
+body{
+    background-color: black;
+}
+
+.item_menu{
+    background-color: rgb(214, 4, 102);
+    font-family:'pacifico', cursive ;
+    color: lightcyan;
+    border-block-color: none;
+    
+}
